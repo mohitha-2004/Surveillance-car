@@ -17,12 +17,12 @@ It features **live camera streaming**, **pan-tilt servo control**, and **motor d
 ---
 
 Component :
-ESP32-CAM module
-L298N Motor Driver
-2 DC Motors
-2 Servo Motors (for camera pan and tilt)
-Battery (7.4V or 9V)
-Jumper wires
+ESP32-CAM module,
+L298N Motor Driver,
+2 DC Motors,
+2 Servo Motors (for camera pan and tilt),
+Battery (7.4V or 9V),
+Jumper wires,
 Car chassis with wheels
 
 ---
